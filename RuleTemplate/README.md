@@ -1,4 +1,4 @@
-# <CONDITION CLASS NAME>
+# <RULE CLASS NAME>
 
 ### Description
 
@@ -13,7 +13,7 @@
 
 ### Test Cases
 
-The following test cases should be used to validate the functionality of this condition: 
+The following test cases should be used to validate the functionality of this rule: 
 
 #### Test Case: <Description>
 
