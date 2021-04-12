@@ -6,7 +6,8 @@
 
 ### Parameters
 
-|| Name || Type || Description ||
+| Name | Type | Description |
+| --- | --- | --- |
 | Param1 | String | My first parameter |
 | Param2 | String | My second parameter |
 
